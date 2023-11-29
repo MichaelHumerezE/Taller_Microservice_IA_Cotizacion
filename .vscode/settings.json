@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/1b0ab9ad-c5e2-4c73-9a11-1298794af916/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/ia-cotizacion",
+    "appService.deploySubpath": "."
+}
